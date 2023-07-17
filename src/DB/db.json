@@ -1,0 +1,84 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "name": "devv",
+      "email": "vasita@gmail.com",
+      "phone": "12345",
+      "marks": "20",
+      "passFail": "Fail"
+    },
+    {
+      "id": 2,
+      "name": "raja",
+      "email": "mahara@gmail.com",
+      "phone": "1234567890",
+      "marks": "76",
+      "passFail": "Pass"
+    },
+    {
+      "id": 3,
+      "name": "bapu",
+      "email": "bapu@gmail.com",
+      "phone": "9512687783",
+      "marks": "70",
+      "passFail": "Pass"
+    },
+    {
+      "id": 4,
+      "name": "dev",
+      "email": "vasita@gmail.com",
+      "phone": "09512687783",
+      "marks": "62",
+      "passFail": "Pass"
+    },
+    {
+      "id": 5,
+      "name": "dev",
+      "email": "dev@gmal.com",
+      "phone": "09512687783",
+      "marks": "65",
+      "passFail": "Pass"
+    },
+    {
+      "id": 6,
+      "name": "raj",
+      "email": "vasita@gmail.com",
+      "phone": "09512687783",
+      "marks": "56",
+      "passFail": "Fail"
+    },
+    {
+      "id": 7,
+      "name": "dev",
+      "email": "vasita@gmail.com",
+      "phone": "1234",
+      "marks": "12",
+      "passFail": "Fail"
+    },
+    {
+      "id": 8,
+      "name": "dev",
+      "email": "vasita@gmail.com",
+      "phone": "1234",
+      "marks": "12",
+      "passFail": "Fail"
+    },
+    {
+      "id": 9,
+      "name": "lalu",
+      "email": "yadav@gmail.com",
+      "phone": "12344578",
+      "marks": "13",
+      "passFail": "Fail"
+    },
+    {
+      "id": 10,
+      "name": "bhai",
+      "email": "bhai@gmail.com",
+      "phone": "9512687783",
+      "marks": "56",
+      "passFail": "Pass"
+    }
+  ]
+}
