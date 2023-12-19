@@ -1,0 +1,46 @@
+### React Photo Gallery Assignment
+
+*Objective:*
+Build a responsive photo gallery using React that fetches images from an API and allows users to interact with the images.
+
+*Requirements:*
+
+1. *Fetch Images:*
+   - Fetch a list of images from the Unsplash API or any other image API of your choice.
+
+2. *Display Images:*
+   - Display the fetched images in a responsive grid layout.
+   - Ensure that the images are lazy-loaded for better performance.
+
+3. *Image Modal:*
+   - Implement a feature where users can click on an image to open a modal.
+   - The modal should display the selected image with additional details such as the photographer's name and a description (if available).
+
+4. *Search Functionality:*
+   - Implement a search bar that allows users to filter images based on keywords.
+   - When a user enters a search term, update the gallery to display only the matching images.
+
+5. *Responsive Design:*
+   - Ensure that the gallery is responsive and looks good on various screen sizes.
+
+6. *Loading Indicator:*
+   - Display a loading indicator while the images are being fetched.
+
+*Constraints:*
+
+- Use functional components and hooks.
+- Use state management to handle the application state.
+- You can use CSS for styling, but prioritize functionality.
+
+*Bonus:*
+
+- Implement pagination to load more images as the user scrolls.
+- Add animation effects for a smoother user experience.
+- Implement error handling for failed API requests.
+- Write unit tests for critical components.
+
+*Submission:*
+
+- Create a GitHub repository for the project.
+- Include a README.md file with instructions on how to run the application locally.
+- Add comments to explain complex parts of the code.
